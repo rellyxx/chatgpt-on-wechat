@@ -25,6 +25,11 @@ https://github.com/zhayujie/chatgpt-on-wechat/assets/26161723/d5154020-36e3-41db
 
 # 企业服务
 
+
+python3 -m venv path/to/venv
+source path/to/venv/bin/activate
+python3 app.py
+
 <a href="https://link-ai.tech" target="_blank"><img width="800" src="https://img-1317903499.cos.ap-guangzhou.myqcloud.com/docs/github-linkai-intro-v2.png"></a>
 
 > [LinkAI](https://link-ai.tech/) 是面向企业和开发者的一站式AI应用平台，聚合多模态大模型、知识库、Agent 插件、工作流等能力，支持一键接入主流平台并进行管理，支持SaaS、私有化部署多种模式。
